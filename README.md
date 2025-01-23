@@ -27,3 +27,5 @@
   <a href="https://www.linkedin.com/in/pedro-benini-75024833a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://x.com/Pabenini1" target="_blank"><img alt="X (formerly Twitter) URL" src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white target="_blank"></a>
 </div>
+
+![Snake animation](Pabenini)
