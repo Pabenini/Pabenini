@@ -1,4 +1,8 @@
-## Bem-vindo(a) ao meu perfil
+## Oi! Meu nome é Pedro
+
+- 📓 Eu estou estudando Javascript
+- 🏫 Hoje faço faculdade de TI
+- 😊 Pronomes: ele/dele
 
  <div>
    <a href="https://github.com/pabenini">
