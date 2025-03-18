@@ -3,9 +3,7 @@
  </a>
 </div>
 
-- 📓 Eu estou estudando Javascript
-- 🏫 Hoje faço faculdade de TI
-- 😊 Pronomes: ele/dele
+<p>Olá meu nome é Pedro, e eu sou um programador em experiência. Atualmente faço faculdade de TI e tenho um conhecimento base sobre varias linguagens de programação. Eu uso meu GitHub para compartilhar uns projetos aleatorios que eu faço. UWU</p>
 
 #
 
