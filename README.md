@@ -3,7 +3,7 @@
  </a>
 </div>
 
-<p>Olá meu nome é Pedro, e eu sou um programador em experiência. Atualmente faço faculdade de TI e tenho um conhecimento base sobre varias linguagens de programação. Eu uso meu GitHub para compartilhar uns projetos aleatorios que eu faço. UWU</p>
+<p align = "center">Olá meu nome é Pedro, e eu sou um programador em experiência. Atualmente faço faculdade de TI e tenho um conhecimento base sobre varias linguagens de programação. Eu uso meu GitHub para compartilhar uns projetos aleatorios que eu faço. UWU</p>
 
 #
 
