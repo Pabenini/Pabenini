@@ -7,6 +7,8 @@
 
 #
 
+<img align="right" alt="" height="170px" src="src/gif/fnf-friday-night-funkin.gif">
+
 <h3>My stacks</h3>
 
 <div style="display: inline_block">
@@ -20,7 +22,8 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/pedro-benini-75024833a/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/pabenini1/)
 
-![fnf-friday-night-funkin](https://github.com/user-attachments/assets/7502856f-9657-476f-95ec-3c10d4528cf0)
+
+
 #
 
 <div style="text-align: center;" align="center">
